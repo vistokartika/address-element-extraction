@@ -6,3 +6,6 @@ The task is to work on collected address to build a model to correctly extract P
 
 - The competition was hosted at https://www.kaggle.com/c/scl-2021-ds
 - The original notebook can be accessed at https://www.kaggle.com/vistokartika/notebook6ca4be4e6e
+
+# Result
+The categorization accuracy score is 0.65871 which put us on 7th place for student category.
